@@ -1,0 +1,18 @@
+{
+  "Name": "Music Control",
+  "Author": "1F1XDRAGO",
+  "Version": "1.2.0",
+  "Description": "Easily toggle and adjust in-game music, show song names and notifications.",
+  "UniqueID": "1F1XDRAGO.MusicControl",
+  "EntryDll": "MusicControl.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [
+    "Nexus:36009"
+  ],
+  "Dependencies": [
+    {
+      "UniqueID": "spacechase0.GenericModConfigMenu",
+      "IsRequired": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "toggleMusicHotkey.name": "Raccourci pour activer/désactiver la musique",
+  "toggleMusicHotkey.tooltip": "Raccourci clavier pour activer ou désactiver la musique",
+
+  "volumeUpKey.name": "Touche Volume +",
+  "volumeUpKey.tooltip": "Raccourci clavier pour augmenter le volume de la musique",
+
+  "volumeDownKey.name": "Touche Volume -",
+  "volumeDownKey.tooltip": "Raccourci clavier pour diminuer le volume de la musique",
+
+  "musicVolume.name": "Volume de la musique",
+  "musicVolume.tooltip": "Niveau de volume de base de la musique",
+
+  "showVolumeChange.name": "Afficher les changements de volume",
+  "showVolumeChange.tooltip": "Afficher une notification lors du changement de volume",
+
+  "autoEventMusic.name": "Activer automatiquement la musique d'événement",
+  "autoEventMusic.tooltip": "Active automatiquement la musique pendant les cinématiques",
+
+  "showSongNames.name": "Afficher les titres de chansons",
+  "showSongNames.tooltip": "Affiche le nom de la chanson lorsqu’elle commence à jouer",
+
+  "showOnEventStart.name": "Afficher au début de l’événement",
+  "showOnEventStart.tooltip": "Affiche le titre de la chanson lorsque l’événement commence",
+
+  "songDisplayDuration.name": "Durée d’affichage du titre",
+  "songDisplayDuration.tooltip": "Temps pendant lequel le nom de la chanson reste affiché"
+}

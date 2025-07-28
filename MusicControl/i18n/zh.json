@@ -1,0 +1,28 @@
+{
+  "toggleMusicHotkey.name": "切换音乐快捷键",
+  "toggleMusicHotkey.tooltip": "用于切换音乐开关的快捷键",
+
+  "volumeUpKey.name": "音量增加键",
+  "volumeUpKey.tooltip": "用于增加音乐音量的快捷键",
+
+  "volumeDownKey.name": "音量减少键",
+  "volumeDownKey.tooltip": "用于减少音乐音量的快捷键",
+
+  "musicVolume.name": "音乐音量",
+  "musicVolume.tooltip": "基础音乐音量级别",
+
+  "showVolumeChange.name": "显示音量变化",
+  "showVolumeChange.tooltip": "在更改音量时显示通知",
+
+  "autoEventMusic.name": "自动启用事件音乐",
+  "autoEventMusic.tooltip": "在过场动画期间自动启用音乐",
+
+  "showSongNames.name": "显示歌曲名称",
+  "showSongNames.tooltip": "音乐开始播放时显示当前歌曲名称",
+
+  "showOnEventStart.name": "事件开始时显示",
+  "showOnEventStart.tooltip": "事件开始时显示歌曲名称",
+
+  "songDisplayDuration.name": "歌曲显示时长",
+  "songDisplayDuration.tooltip": "歌曲名称显示的时间长度"
+}

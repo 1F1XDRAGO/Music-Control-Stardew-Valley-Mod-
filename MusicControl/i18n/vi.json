@@ -1,0 +1,28 @@
+﻿{
+  "toggleMusicHotkey.name": "Phím tắt bật/tắt nhạc",
+  "toggleMusicHotkey.tooltip": "Phím tắt để bật/tắt nhạc",
+
+  "volumeUpKey.name": "Phím tăng âm lượng",
+  "volumeUpKey.tooltip": "Phím tắt để tăng âm lượng nhạc",
+
+  "volumeDownKey.name": "Phím giảm âm lượng",
+  "volumeDownKey.tooltip": "Phím tắt để giảm âm lượng nhạc",
+
+  "musicVolume.name": "Âm lượng nhạc",
+  "musicVolume.tooltip": "Mức cơ bản của âm lượng nhạc",
+
+  "showVolumeChange.name": "Hiển thị thay đổi âm lượng",
+  "showVolumeChange.tooltip": "Hiển thị thông báo khi thay đổi âm lượng",
+
+  "autoEventMusic.name": "Tự động bật nhạc sự kiện",
+  "autoEventMusic.tooltip": "Tự động bật nhạc khi phát đoạn cắt cảnh",
+
+  "showSongNames.name": "Hiển thị tên bài hát",
+  "showSongNames.tooltip": "Hiển thị tên bài hát khi nhạc bắt đầu phát",
+
+  "showOnEventStart.name": "Hiển thị khi sự kiện bắt đầu",
+  "showOnEventStart.tooltip": "Hiển thị tên bài hát khi sự kiện bắt đầu",
+
+  "songDisplayDuration.name": "Thời gian hiển thị tên bài hát",
+  "songDisplayDuration.tooltip": "Thời gian hiển thị tên bài hát"
+}

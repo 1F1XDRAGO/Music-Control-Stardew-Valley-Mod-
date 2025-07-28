@@ -1,0 +1,28 @@
+{
+  "toggleMusicHotkey.name": "Toggle Music Hotkey",
+  "toggleMusicHotkey.tooltip": "Hotkey to toggle music on/off",
+
+  "volumeUpKey.name": "Volume Up Key",
+  "volumeUpKey.tooltip": "Hotkey to increase music volume",
+
+  "volumeDownKey.name": "Volume Down Key",
+  "volumeDownKey.tooltip": "Hotkey to decrease music volume",
+
+  "musicVolume.name": "Music Volume",
+  "musicVolume.tooltip": "Base music volume level",
+
+  "showVolumeChange.name": "Show Volume Changes",
+  "showVolumeChange.tooltip": "Show notifications when changing volume",
+
+  "autoEventMusic.name": "Auto Enable Event Music",
+  "autoEventMusic.tooltip": "Automatically enable music during cutscenes",
+
+  "showSongNames.name": "Show Song Names",
+  "showSongNames.tooltip": "Show current song name when music starts",
+
+  "showOnEventStart.name": "Show on Event Start",
+  "showOnEventStart.tooltip": "Show song name when events start",
+
+  "songDisplayDuration.name": "Song Display Duration",
+  "songDisplayDuration.tooltip": "How long to show song names"
+}
